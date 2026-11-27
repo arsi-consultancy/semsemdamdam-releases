@@ -1,0 +1,8 @@
+{
+  "android": {
+    "latest": "1.0.0",
+    "minimum": "1.0.0",
+    "store_url": "https://play.google.com/store/apps/details?id=in.arsi.s2d2"
+  },
+  "changelog": []
+}
